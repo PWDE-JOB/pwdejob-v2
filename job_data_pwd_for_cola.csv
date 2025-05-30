@@ -1,0 +1,40 @@
+Job ID,Title,Skill 1,Skill 2,Skill 3,Skill 4,Skill 5,Experience (Years),PWD Friendly
+1,Content Writer,SEO,Copywriting,Grammar,WordPress,Research,5,1
+2,Graphic Designer 1,Typography,Canva,Illustrator,Photoshop,Branding,4,1
+3,Transcriptionist,Grammar,Transcription Tools,Listening,Detail Orientation,Typing,2,0
+4,Online Tutor,Lesson Planning,Zoom,Subject Expertise,Communication,Patience,4,1
+5,E-commerce Assistant,Order Processing,Customer Service,Inventory Management,Product Listing,Shopify,3,0
+6,Graphic Designer 2,Branding,Typography,Illustrator,Photoshop,Canva,3,0
+7,Technical Support Specialist,Remote Tools,Documentation,Networking,Customer Service,Troubleshooting,4,1
+8,Data Entry Clerk,Typing,Time Management,Accuracy,Data Validation,MS Excel,4,1
+9,Salesforce Administrator,CRM,Salesforce,Data Entry,Workflows,Excel,2,1
+10,Virtual Assistant,Google Workspace,Attention to Detail,Task Management,Email Management,Scheduling,2,0
+11,Accessibility Tester,HTML,UX Testing,WCAG,Reporting,Screen Reader,1,0
+12,Customer Support Agent,CRM,Typing,Communication,Problem Solving,Multitasking,2,1
+13,Transcriptionist,Transcription Tools,Listening,Typing,Grammar,Detail Orientation,1,0
+14,Cybersecurity Analyst,Firewalls,Risk Assessment,Networking,Security,Incident Response,3,1
+15,Social Media Manager,Engagement,Content Planning,Analytics,Facebook Ads,Instagram,1,1
+16,UX Designer,User Research,Prototyping,Figma,Wireframing,Accessibility,5,1
+17,Content Writer,WordPress,SEO,Copywriting,Research,Grammar,1,0
+18,Graphic Designer 3,Illustrator,Photoshop,Branding,Typography,Canva,2,1
+19,Data Scientist,Machine Learning,Data Science,Statistics,Pandas,Python,2,1
+20,Backend Developer,SQL,AWS,Spring Boot,Microservices,Java,2,1
+21,Blog Manager,Content Editing,Analytics,WordPress,Editorial Calendar,SEO,3,1
+22,Data Entry Clerk,Typing,Data Validation,MS Excel,Accuracy,Time Management,1,1
+23,Salesforce Administrator,Workflows,CRM,Data Entry,Salesforce,Excel,1,1
+24,Mobile App Tester,Testing Tools,Attention to Detail,Android,Bug Reporting,iOS,1,0
+25,Welding,MIG Welding,TIG Welding,Safety Practices,Blueprint Reading,Metal Fabrication,2,1
+26,Carpentry,Framing,Blueprint Reading,Hand Tools,Safety Practices,Attention to Detail,1,1
+27,Masory,Bricklaying,Stonework,Mortar Mixing,Blueprint Reading,Safety Practices,1,0
+28,Plumbing,Pipe Fitting,Fixture Installation,Safety Practices,Blueprint Reading,Problem Solving,3,1
+29,Packaging,Quality Control,Attention to Detail,Machine Operation,Safety Practices,Teamwork,2,1
+30,Electrical Work,Wiring,Circuit Design,Safety Practices,Troubleshooting,Blueprint Reading,4,0
+31,Animal Care,Animal Handling,Basic Veterinary Knowledge,Feeding,Grooming,Record Keeping,2,1
+32,Irrigation Maintenance,System Installation,Troubleshooting,Water Management,Safety Practices,Equipment Operation,3,1
+33,Inventory handling,Stock Management,Attention to Detail,Data Entry,Organization,Safety Practices,1,0
+34,Package Sorting,Attention to Detail,Time Management,Teamwork,Safety Practices,Organization,1,1
+35,Cooking,Food Preparation,Safety Practices,Recipe Following,Time Management,Teamwork,2,0
+36,Housekeeping,Cleaning Techniques,Attention to Detail,Time Management,Safety Practices,Organization,1,1
+37,Casheir,Customer Service,Cash Handling,Attention to Detail,Time Management,POS Systems,2,0
+38,Service Crew,Customer Service,Teamwork,Time Management,Safety Practices,Communication,1,1
+39,Sorting Packages,Attention to Detail,Time Management,Organization,Teamwork,Safety Practices,1,0
