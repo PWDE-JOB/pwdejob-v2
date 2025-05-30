@@ -127,7 +127,7 @@ def hybridRecos(user_skills, experience, is_pwd, user_history, interaction_matri
     user_history_df = pd.read_csv("user_history.csv")
     jobs = df.to_dict(orient="records")
     
-    # Convert user skills to lowercase parabeasy comparsion ng lahat EQUALITY
+    # Convert user skills to lowercase for easy comparison
     user_skills_set = {skill.strip().lower() for skill in user_skills}
     
     # Get jobs that the selected user has applied to (applied = 1)
@@ -186,7 +186,9 @@ def hybridRecos(user_skills, experience, is_pwd, user_history, interaction_matri
         # Calculate final score (weighted combination of history similarity and user skill match)
         if len(job_skills) > 0:
             skill_match_ratio = user_skill_matches / len(job_skills)
-            final_score = (history_score * 0.4) + (skill_match_ratio * 0.6)  # Weighted combination
+            # Normalize history score by dividing by the maximum possible common skills (5)
+            normalized_history_score = history_score / 5.0
+            final_score = (normalized_history_score * 0.2) + (skill_match_ratio * 0.8)  # Weighted combination
             final_recommendations.append((job['Title'], final_score))
     
     # Sort by final score and return top 5
